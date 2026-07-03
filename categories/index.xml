@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on KIKI-PIC</title>
+        <link>https://pankxiao.github.io/my-hugo-web/categories/</link>
+        <description>Recent content in Categories on KIKI-PIC</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright><atom:link href="https://pankxiao.github.io/my-hugo-web/categories/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
